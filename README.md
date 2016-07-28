@@ -1,2 +1,2 @@
-# match3
+# Sunny pop
 Simple experimental match3 game.
