@@ -495,7 +495,7 @@ function Stone(ySpawn, cell, cellSize, fieldRect, type) {
 		shiftY: null
 	}
 
-	this.fallingSpeed = 350;
+	this.fallingSpeed = 550;
 
 	this.movingTime = 0.2;
 
